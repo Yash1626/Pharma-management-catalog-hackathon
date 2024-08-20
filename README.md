@@ -58,7 +58,4 @@ This Pharma Supply Chain System leverages **Smart Contracts** and **Blockchain**
 - **Email**: yashch1611@gmail.com
 - **GitHub**: [github.com/Yash1626](https://github.com/Yash1626)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
